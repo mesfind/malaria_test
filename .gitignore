@@ -1,4 +1,7 @@
+data/*
 data/external/*
 !data/processed
 !data/raw
-data/*
+# figures
+*.png
+figures/*
